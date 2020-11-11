@@ -4,9 +4,9 @@
 
 ➡️ I use **he/him/his** pronouns.
 
-💼 I currently work at @mailchimp
+💼 I currently work at Greenlight Financial Technology
 
-👨🏻‍💻 I mostly work in Java 11 these days. Previously I've done Scala, and Clojure on the JVM as well. I probably need to check out Kotlin.
+👨🏻‍💻 I've done a lot of work in Java 11 and am learning Kotlin. Previously I've done Scala, and Clojure on the JVM as well.
 
 ✍🏻 Sometimes I blog at https://frmr.me
 
