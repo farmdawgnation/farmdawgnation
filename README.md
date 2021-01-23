@@ -12,4 +12,4 @@
 
 🔨 I sometimes write Golang, PHP, and Python. In the past I've done JavaScript and Ruby, as well.
 
-🤝 Most of my open source work these days happens on @lift or @dispatch, but I have some msaller projects too
+🤝 Most of my open source work these days happens on @lift or @dispatch, but I have some smaller projects too
