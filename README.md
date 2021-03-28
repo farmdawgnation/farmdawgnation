@@ -4,12 +4,6 @@
 
 ➡️ I use **he/him/his** pronouns.
 
-💼 I currently work at Greenlight Financial Technology
-
-👨🏻‍💻 I've done a lot of work in Java 11 and am learning Kotlin. Previously I've done Scala, and Clojure on the JVM as well.
-
 ✍🏻 Sometimes I blog at https://frmr.me
 
-🔨 I sometimes write Golang, PHP, and Python. In the past I've done JavaScript and Ruby, as well.
-
-🤝 Most of my open source work these days happens on @lift or @dispatch, but I have some smaller projects too
+🔨 I usually write Java or Kotlin. Sometimes JS, Golang, and Python. In the past I've done PHP and Ruby, as well.
